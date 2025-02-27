@@ -18,7 +18,7 @@ class _HomeUiState extends State<HomeUi> {
 
   //สร้างตัวแปรเก็บหน้าจอที่จะแสดง body ซื่งต่อกับ AnimatedNotchBottombar
   List<Widget>viewInBody =[
-    CalBillUi(),
+    CalBillUI(),
     MenuUi(),
     AboutUi(),
   ];
